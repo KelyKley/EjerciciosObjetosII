@@ -62,6 +62,9 @@ function datos(nombre, apellido, edad, genero, ciudad, pais) {
 var persona = new datos("Kely", "Añamuro", 18, "Femenino", "Arequipa", "Perú");
 
 
+
+//PRUEBAS UNITARIAS
+
 describe ("Ejercicios Objetos II", function(){
 
     describe("Ejercicio 1", function (){
